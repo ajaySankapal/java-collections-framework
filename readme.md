@@ -41,3 +41,13 @@
 #### To solve the problem of type casting
 #### To enable developer to write less redundant code
 
+### List
+#### List is a interface which is a child interface of Collection interface
+#### Implementation classes - 1.ArrayList 2.LinkedList [3.Vector--> 4.Stack]
+#### List: An ordered collection, duplicate is also allowed.
+#### List allows positional access to elements
+
+##### List a = new ArrayList()
+##### List l = new LinkedList()
+##### List v = new Vector()
+##### List s = new Stack()

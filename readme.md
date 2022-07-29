@@ -40,7 +40,8 @@
 #### Main objective of generic is to provide type safety
 #### To solve the problem of type casting
 #### To enable developer to write less redundant code
-
+####
+####
 ### List
 #### List is a interface which is a child interface of Collection interface
 #### Implementation classes - 1.ArrayList 2.LinkedList [3.Vector--> 4.Stack]
@@ -51,3 +52,9 @@
 ##### List l = new LinkedList()
 ##### List v = new Vector()
 ##### List s = new Stack()
+####
+####
+#### ArrayList - resizable array
+#### allows duplicate elements
+#### Insertion order is preserved
+#### Accepts heterogenous objects

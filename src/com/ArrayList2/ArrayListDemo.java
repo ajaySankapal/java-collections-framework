@@ -1,4 +1,4 @@
-package com.ArrayList;
+package com.ArrayList2;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -37,6 +37,13 @@ public class ArrayListDemo {
 		  ArrayList<Integer> age = new ArrayList<>(); //<T> - generic
 		  //this arraylist only contain integer object you cant add any other data type element
 		  //we dont need to type cast the elements at the time of retrieval because we already know the data type
+		  
+		  //collections implement 
+		  //1.serializable interface
+		  //2.clonoeable interface
+		  //3.random access interface -> marker interface ---- any random element can be accessed in same speed
+		  
+		  //arraylist is not adviced when we want to perform insertion and deletion on data--> bcz it requires many shift
 
 	}
 

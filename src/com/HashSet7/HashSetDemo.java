@@ -1,4 +1,4 @@
-package com.HashSet;
+package com.HashSet7;
 
 import java.util.HashSet;
 
